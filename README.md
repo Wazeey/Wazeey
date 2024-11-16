@@ -19,7 +19,7 @@ With years of experience managing financial data, reconciling complex datasets, 
 - **Python Scripts**: Code for data manipulation, analysis, and visualization
 
 ## Let’s Connect!
-- **LinkedIn**: [Olawale Azeez](https://linkedin.com/in/olawale-azeez-aat-aca-61523126)
+- **LinkedIn**: [Olawale Azeez](https://www.linkedin.com/in/olawale-azeez-aca)]
 - **Email**: [wazeey7@gmail.com](mailto:wazeey7@gmail.com)
 
 Feel free to explore my repositories and reach out to discuss projects, collaborations, or opportunities in data analysis and beyond!
